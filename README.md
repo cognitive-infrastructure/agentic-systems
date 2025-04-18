@@ -10,5 +10,5 @@ This repository will contain implementation blueprints, scoped AI prompt enginee
 
 ## Related Repositories
 
-- [knowledge-base](../knowledge-base-new) - Core concepts, patterns, anti-patterns, essays, frameworks, diagnostics, and lexicon
+- [knowledge-base](../knowledge-base-fixed) - Core concepts, patterns, anti-patterns, essays, frameworks, diagnostics, and lexicon
 - [meta-stack](../meta-stack) - Tools, schemas, and infrastructure for managing the knowledge base 
