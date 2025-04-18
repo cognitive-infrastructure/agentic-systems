@@ -5,6 +5,8 @@ version: 1.0
 summary: Index of the Agentic Systems repository content
 ---
 
+<!-- migrated from knowledge-base repo on 2025-04 -->
+
 # Summary
 
 ## Introduction
